@@ -1,0 +1,471 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<ScappleDocument ID="574748D6-217F-4C46-9346-A3E0706EC1D7" Version="1.1">
+   <Notes>
+      <Note Width="140.979" FontSize="12" ID="0" Position="165.0,122.6">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.980392 0.552941 0.847059</Fill>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,7</FormatRange>
+         </Formatting>
+         <String>Renpy: 
+Pleasure Club Structure</String>
+      </Note>
+      <Note Width="48.1063" FontSize="12" ID="1" Position="320.6,150.8">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.945098 0.909804 0.372549</Fill>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>start label</String>
+         <ConnectedNoteIDs>38</ConnectedNoteIDs>
+         <PointsToNoteIDs>38</PointsToNoteIDs>
+      </Note>
+      <Note Width="71.0693" FontSize="12" ID="2" Position="310.3,262.5">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.509804 0.933333 0.686275</Fill>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>skip screen</String>
+         <ConnectedNoteIDs>3-4, 6, 38</ConnectedNoteIDs>
+         <PointsToNoteIDs>3-4, 6</PointsToNoteIDs>
+      </Note>
+      <Note Width="31.8848" FontSize="12" ID="3" Position="262.8,291.5">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.509804 0.933333 0.686275</Fill>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>intro</String>
+         <ConnectedNoteIDs>2, 4</ConnectedNoteIDs>
+         <PointsToNoteIDs>4</PointsToNoteIDs>
+      </Note>
+      <Note Width="57.0679" FontSize="12" ID="4" Position="319.7,318.1">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.509804 0.933333 0.686275</Fill>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>interview</String>
+         <ConnectedNoteIDs>2-3, 5</ConnectedNoteIDs>
+         <PointsToNoteIDs>5</PointsToNoteIDs>
+      </Note>
+      <Note Width="34.6802" FontSize="12" ID="5" Position="333.9,365.7">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.509804 0.933333 0.686275</Fill>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>ritual</String>
+         <ConnectedNoteIDs>4, 6</ConnectedNoteIDs>
+         <PointsToNoteIDs>6</PointsToNoteIDs>
+      </Note>
+      <Note Width="126.978" FontSize="12" ID="6" Position="439.3,396.9">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.945098 0.909804 0.372549</Fill>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>—— game loop —— 
+      lobby/lounge</String>
+         <ConnectedNoteIDs>2, 5, 7-11, 17, 21, 25, 30, 36</ConnectedNoteIDs>
+         <PointsToNoteIDs>7-11, 25</PointsToNoteIDs>
+      </Note>
+      <Note Width="90.6372" FontSize="12" ID="7" Position="626.3,331.2">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.945098 0.909804 0.372549</Fill>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>zone1 - lounge</String>
+         <ConnectedNoteIDs>6, 14, 18-19, 22</ConnectedNoteIDs>
+         <PointsToNoteIDs>6, 14, 19</PointsToNoteIDs>
+      </Note>
+      <Note Width="100.427" FontSize="12" ID="8" Position="624.0,380.5">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.945098 0.909804 0.372549</Fill>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>zone2 - dressing</String>
+         <ConnectedNoteIDs>6, 29</ConnectedNoteIDs>
+         <PointsToNoteIDs>6, 29</PointsToNoteIDs>
+      </Note>
+      <Note Width="105.31" FontSize="12" ID="9" Position="621.3,429.7">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.945098 0.909804 0.372549</Fill>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>zone3 - courtyard</String>
+         <ConnectedNoteIDs>6, 26</ConnectedNoteIDs>
+         <PointsToNoteIDs>6, 26</PointsToNoteIDs>
+      </Note>
+      <Note Width="90.6372" FontSize="12" ID="10" Position="626.8,473.4">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.945098 0.909804 0.372549</Fill>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>zone4 - booths</String>
+         <ConnectedNoteIDs>6, 28</ConnectedNoteIDs>
+         <PointsToNoteIDs>6, 28</PointsToNoteIDs>
+      </Note>
+      <Note Width="56.3843" FontSize="12" ID="11" Position="329.8,402.3">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.960784 0.698039 0.462745</Fill>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>EC anna</String>
+         <ConnectedNoteIDs>6, 12-13, 23, 32</ConnectedNoteIDs>
+         <PointsToNoteIDs>6, 12-13, 23</PointsToNoteIDs>
+      </Note>
+      <Note Width="27.6978" FontSize="12" ID="12" Position="264.5,403.9">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.909804 0.560784 0.494118</Fill>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>info</String>
+         <ConnectedNoteIDs>11, 31, 33-34</ConnectedNoteIDs>
+         <PointsToNoteIDs>11, 31, 33-34</PointsToNoteIDs>
+      </Note>
+      <Note Width="80.8228" FontSize="12" ID="13" Position="202.4,451.6">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.909804 0.560784 0.494118</Fill>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>tutor (locked)</String>
+         <ConnectedNoteIDs>11, 32</ConnectedNoteIDs>
+         <PointsToNoteIDs>11, 32</PointsToNoteIDs>
+      </Note>
+      <Note Width="114.38" FontSize="12" ID="14" Position="775.8,281.2">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.960784 0.698039 0.462745</Fill>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>EC# select scene
+or intro first/second</String>
+         <ConnectedNoteIDs>7, 15</ConnectedNoteIDs>
+         <PointsToNoteIDs>7, 15</PointsToNoteIDs>
+      </Note>
+      <Note Width="97.6074" FontSize="12" ID="15" Position="919.1,290.6">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.909804 0.560784 0.494118</Fill>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>their scene 1 - 5</String>
+         <ConnectedNoteIDs>14, 16</ConnectedNoteIDs>
+         <PointsToNoteIDs>16</PointsToNoteIDs>
+      </Note>
+      <Note Width="107.397" FontSize="12" ID="16" Position="909.0,231.2">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.898039 0.886275 1.0</Fill>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>exit (as customer)</String>
+         <ConnectedNoteIDs>15, 17-18</ConnectedNoteIDs>
+         <PointsToNoteIDs>17-18</PointsToNoteIDs>
+      </Note>
+      <Note Width="69.6533" FontSize="12" ID="17" Position="617.4,221.1">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.898039 0.886275 1.0</Fill>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>resting bed</String>
+         <ConnectedNoteIDs>6, 16</ConnectedNoteIDs>
+         <PointsToNoteIDs>6</PointsToNoteIDs>
+      </Note>
+      <Note Width="120.667" FontSize="12" ID="18" Position="639.8,248.4">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.898039 0.886275 1.0</Fill>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>return (as customer)</String>
+         <ConnectedNoteIDs>7, 16</ConnectedNoteIDs>
+         <PointsToNoteIDs>7</PointsToNoteIDs>
+      </Note>
+      <Note Width="152.881" FontSize="12" ID="19" Position="766.9,328.1">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>1.0 0.752941 0.956863</Fill>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Z1 own customer scene select (if unlocked)</String>
+         <ConnectedNoteIDs>7, 24</ConnectedNoteIDs>
+         <PointsToNoteIDs>7, 24</PointsToNoteIDs>
+      </Note>
+      <Note Width="116.479" FontSize="12" ID="20" Position="986.2,195.3">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.674510 0.878431 1.0</Fill>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>alt exit (as servicer)</String>
+         <ConnectedNoteIDs>21-22, 24</ConnectedNoteIDs>
+         <PointsToNoteIDs>21-22</PointsToNoteIDs>
+      </Note>
+      <Note Width="138.171" FontSize="12" ID="21" Position="565.2,146.1">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.674510 0.878431 1.0</Fill>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>deliver customer to bed</String>
+         <ConnectedNoteIDs>6, 20</ConnectedNoteIDs>
+         <PointsToNoteIDs>6</PointsToNoteIDs>
+      </Note>
+      <Note Width="112.976" FontSize="12" ID="22" Position="633.1,177.3">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.674510 0.878431 1.0</Fill>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>return (as servicer)</String>
+         <ConnectedNoteIDs>7, 20</ConnectedNoteIDs>
+         <PointsToNoteIDs>7</PointsToNoteIDs>
+      </Note>
+      <Note Width="71.7651" FontSize="12" ID="23" Position="302.4,503.2">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.909804 0.560784 0.494118</Fill>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>session 1-5</String>
+         <ConnectedNoteIDs>11, 30, 36</ConnectedNoteIDs>
+         <PointsToNoteIDs>11, 30</PointsToNoteIDs>
+      </Note>
+      <Note Width="90.6372" FontSize="12" ID="24" Position="996.3,338.3">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.980392 0.552941 0.847059</Fill>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>your scene 1-5</String>
+         <ConnectedNoteIDs>19-20</ConnectedNoteIDs>
+         <PointsToNoteIDs>20</PointsToNoteIDs>
+      </Note>
+      <Note Width="121.399" FontSize="12" ID="25" Position="622.1,528.9">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.945098 0.909804 0.372549</Fill>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>zone5 - resting beds</String>
+         <ConnectedNoteIDs>6, 27, 35-36</ConnectedNoteIDs>
+         <PointsToNoteIDs>6, 27</PointsToNoteIDs>
+      </Note>
+      <Note Width="49.6094" FontSize="12" ID="26" Position="802.4,428.9">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.960784 0.698039 0.462745</Fill>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>— | | —</String>
+         <ConnectedNoteIDs>9</ConnectedNoteIDs>
+         <PointsToNoteIDs>9</PointsToNoteIDs>
+      </Note>
+      <Note Width="49.6094" FontSize="12" ID="27" Position="802.7,530.1">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.960784 0.698039 0.462745</Fill>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>— | | —</String>
+         <ConnectedNoteIDs>25</ConnectedNoteIDs>
+         <PointsToNoteIDs>25</PointsToNoteIDs>
+      </Note>
+      <Note Width="49.6094" FontSize="12" ID="28" Position="800.4,480.9">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.960784 0.698039 0.462745</Fill>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>— | | —</String>
+         <ConnectedNoteIDs>10</ConnectedNoteIDs>
+         <PointsToNoteIDs>10</PointsToNoteIDs>
+      </Note>
+      <Note Width="49.6094" FontSize="12" ID="29" Position="800.4,380.7">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.960784 0.698039 0.462745</Fill>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>— | | —</String>
+         <ConnectedNoteIDs>8</ConnectedNoteIDs>
+         <PointsToNoteIDs>8</PointsToNoteIDs>
+      </Note>
+      <Note Width="27.002" FontSize="12" ID="30" Position="405.6,481.3">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.909804 0.560784 0.494118</Fill>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>exit</String>
+         <ConnectedNoteIDs>6, 23</ConnectedNoteIDs>
+         <PointsToNoteIDs>6</PointsToNoteIDs>
+      </Note>
+      <Note Width="40.9912" FontSize="12" ID="31" Position="162.6,329.7">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.909804 0.560784 0.494118</Fill>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>topic1</String>
+         <ConnectedNoteIDs>12</ConnectedNoteIDs>
+         <PointsToNoteIDs>12</PointsToNoteIDs>
+      </Note>
+      <Note Width="90.6372" FontSize="12" ID="32" Position="193.0,521.9">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.909804 0.560784 0.494118</Fill>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>teach montage</String>
+         <ConnectedNoteIDs>11, 13</ConnectedNoteIDs>
+         <PointsToNoteIDs>11</PointsToNoteIDs>
+      </Note>
+      <Note Width="40.9912" FontSize="12" ID="33" Position="161.0,361.7">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.909804 0.560784 0.494118</Fill>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>topic2</String>
+         <ConnectedNoteIDs>12</ConnectedNoteIDs>
+         <PointsToNoteIDs>12</PointsToNoteIDs>
+      </Note>
+      <Note Width="40.9912" FontSize="12" ID="34" Position="161.0,393.8">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.909804 0.560784 0.494118</Fill>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>topic3</String>
+         <ConnectedNoteIDs>12</ConnectedNoteIDs>
+         <PointsToNoteIDs>12</PointsToNoteIDs>
+      </Note>
+      <Note Width="235.938" FontSize="12" ID="35" Position="669.5,588.3">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.792157 0.792157 0.792157</Fill>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,6</FormatRange>
+         </Formatting>
+         <String>note2: the knockout resting bed is a seperate space compared the resting beds zone5 area.
+
+Technically there are multiple rooms here and you wake from one of them that is free/empty. The other ones have an EC with a strong KO-end session to try.
+
+The reason its seperate and why you auto go to lounge after waking up is to prevent immediately running into a brutal EC session in this zone after already recovering from an intense session previously elsewhere.</String>
+         <ConnectedNoteIDs>25</ConnectedNoteIDs>
+      </Note>
+      <Note Width="156.25" FontSize="12" ID="36" Position="426.6,556.2">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.792157 0.792157 0.792157</Fill>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,5</FormatRange>
+         </Formatting>
+         <String>note: can always cancel and back out after initial contact and explanation.
+
+Applies to all sectors.</String>
+         <ConnectedNoteIDs>6, 23, 25</ConnectedNoteIDs>
+      </Note>
+      <Note Width="214.062" FontSize="12" ID="37" Position="183.6,575.8">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.945098 0.909804 0.372549</Fill>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,10</FormatRange>
+            <FormatRange Bold="Yes">196,28</FormatRange>
+         </Formatting>
+         <String>Variables:
+Just use bool flags that activate after each scene. Upon visits, first process bools with last to first order (4>>>1) to jump to correct intro and also to enable correct menu buttons.
+
+Scene/unlock bool examples: 
+-char progression
+$ lounge_dryad_s1 = False
+$ lounge_dryad_s2 = False
+$ lounge_dryad_s3 = False
+$ lounge_dryad_s4 = False
+(s4 done = free scene select)
+$ dressing_levitator_s1 = True
+$ anna_s1 = False
+-player own skills
+$ player_tutor_unlocked = False
+$ player_tutor_studied = False
+-skips
+$ intro_passed = False
+$ interview_passed = True
+$ ritual_completed = False
+(start game skip)</String>
+      </Note>
+      <Note Width="92.7124" FontSize="12" ID="38" Position="298.6,208.6">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.509804 0.933333 0.686275</Fill>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>optional tutorial</String>
+         <ConnectedNoteIDs>1-2</ConnectedNoteIDs>
+         <PointsToNoteIDs>2</PointsToNoteIDs>
+      </Note>
+   </Notes>
+   <BackgroundShapes/>
+   <NoteStyles>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Blue Bubble" ID="2308C781-493C-434C-8161-790F0F8D00C2" AffectTextColor="No" AffectNoteBody="Yes" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.485893 0.568933 0.756207</BorderColor>
+         <FillColor>0.844068 0.869596 0.923064</FillColor>
+      </Style>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Brown Bubble" ID="DC30BE0E-21F3-40EC-A39F-CF404F73CA9B" AffectTextColor="No" AffectNoteBody="Yes" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.269490 0.164034 0.186694</BorderColor>
+         <FillColor>0.934157 0.888319 0.785290</FillColor>
+      </Style>
+      <Style AffectFontStyle="Yes" AffectAlignment="Yes" Name="Title Text" ID="0D0C15B6-28C5-4137-9DDE-8DC7A053E57D" AffectTextColor="No" AffectNoteBody="No" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <IsBold>Yes</IsBold>
+         <FontSize>12.0</FontSize>
+      </Style>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Pink Bubble" ID="CD383D3C-F6FB-4764-98FD-25E9E447E9E4" AffectTextColor="No" AffectNoteBody="Yes" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.690303 0.407263 0.550912</BorderColor>
+         <FillColor>0.898329 0.817472 0.865339</FillColor>
+      </Style>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Red Text" ID="4EDA8654-5C50-48AE-84A5-77ACD15481ED" AffectTextColor="Yes" AffectNoteBody="No" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <TextColor>1.0 0.0 0.0</TextColor>
+      </Style>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Green Bubble" ID="DD1919D2-D4D0-48E6-91CE-338E488A2DAE" AffectTextColor="No" AffectNoteBody="Yes" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.399100 0.583322 0.354864</BorderColor>
+         <FillColor>0.808835 0.872419 0.801343</FillColor>
+      </Style>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Yellow Bubble" ID="21ABAF97-E16B-402B-9904-12308F8D3A94" AffectTextColor="No" AffectNoteBody="Yes" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.769436 0.762219 0.390143</BorderColor>
+         <FillColor>0.912963 0.894118 0.644541</FillColor>
+      </Style>
+   </NoteStyles>
+   <UISettings>
+      <BackgroundColor>1.0 0.988006 0.945006</BackgroundColor>
+      <DefaultFont>Helvetica</DefaultFont>
+      <DefaultTextColor>0.0 0.0 0.0</DefaultTextColor>
+   </UISettings>
+   <PrintSettings VerticalPagination="Auto" HorizontalPagination="Clip" Orientation="Portrait" RightMargin="12.000000" BottomMargin="12.000000" HorizontallyCentered="Yes" ScaleFactor="1.000000" PagesAcross="1" PaperType="iso-a4" PagesDown="1" TopMargin="12.000000" Collates="Yes" PaperSize="-1.000000,-1.000000" LeftMargin="12.000000" VerticallyCentered="Yes"/>
+</ScappleDocument>

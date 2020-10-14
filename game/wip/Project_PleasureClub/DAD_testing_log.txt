@@ -1,0 +1,10 @@
+DAD Testlog - 12.06.2020
+
+da.__version__ = 1.31.8
+Firefox 77.0.1 (64-bit)
+
+Body Dimensions -> genitals -> vaginaSize - seems to do nothing
+
+Body Modifiers -> Miscellaneous -> sub - no idea what this is, wish the mouse hover tooltip could tell me
+
+Create Character -> "Load From Code" - the function works itself, but after loading a character from code, I cannot edit them. The sliders do not seem to update with the loaded character and any changes do not alter the character.

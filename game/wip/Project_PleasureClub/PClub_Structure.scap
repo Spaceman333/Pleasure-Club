@@ -1,0 +1,631 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<ScappleDocument ID="06C24474-E522-4D51-BC30-A36532DC1CD1" Version="1.1">
+   <Notes>
+      <Note Width="169.531" FontSize="12" ID="0" Position="57.8,50.8">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>1.0 0.921569 0.894118</Fill>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Framework Of Pleasure Club</String>
+      </Note>
+      <Note Width="279.688" FontSize="12" ID="1" Position="51.6,91.4">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>1.0 0.921569 0.894118</Fill>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Intro - Start Game First Time - No skip
+
+Its night in the city and you have a day off. 
+
+Sex work had been made legal months ago and you’ve been excited to try your luck at trying out some of the services that have opened up in your city.
+
+Recently you heard about this place called the Pleasure Club that opened up its doors a week ago and it seems like an enticing establishment worth checking out. 
+
+The online ratings for it seem to be overwhelmingly positive. Thats usually a good sign.
+
+Before heading out for it, you take a look in the mirror. You are a:
+
+MALE or FEMALE
+(which genitalia do you have - changes what scenes you get)
+
+// Assuming from this point on, player is MALE. I will do the female version afterwards.
+
+You’re a male adult human being, average in every way, healthy and capable.
+
+You live in the city, a modern metropolis of the current age. Life is peaceful if often busy, but things are good.
+
+You are alone and free, with nothing tying you down, but also nothing keeping you company.
+
+You decide to get out there, excited and curious. You don’t have any particular goal in mind, apart from just having fun and possibly getting laid.
+
+Maybe something good and unexpected will happen? Best not have any expectations, but all the same you’re going into the night with an open mind.</String>
+         <ConnectedNoteIDs>2</ConnectedNoteIDs>
+         <PointsToNoteIDs>2</PointsToNoteIDs>
+      </Note>
+      <Note Width="245.312" FontSize="12" ID="2" Position="357.8,93.0">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>1.0 0.921569 0.894118</Fill>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Transit
+
+Dressed up, you take the mass transit. On the way, you overhear conversations from other passengers talking about the very place you’re on your way towards - the Pleasure Club - as probably they are too.
+
+Some are excited, endorsing it to high heaven to their friend.
+
+Others are anxious, cheeks red with anticipation. They’re trying really hard to hide a smile.
+
+Some are clueless, it being their first time going there, looking somewhat confused how their friends are practically gushing about this place.
+
+The interesting thing you notice is that no one mentions any details - even when their friend asks. 
+
+And not even in the “I’m not telling you, its a surprise” kind of way. 
+
+They genuinely seem to struggle to find words to describe what their experience was like. Like its at the tip of their tongue, but the words just don’t come out.
+
+In the end, they always seem to utter the word “magical” in the end to describe it, without elaborating it any further.
+
+You shrug, probably they’re just too excited to think of the details at the moment.</String>
+         <ConnectedNoteIDs>1, 3</ConnectedNoteIDs>
+         <PointsToNoteIDs>3</PointsToNoteIDs>
+      </Note>
+      <Note Width="282.031" FontSize="12" ID="3" Position="652.3,85.9">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>1.0 0.921569 0.894118</Fill>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Outside the Pleasure Club
+
+You arrive at the address of the Pleasure Club and sure enough, there it is, open for business.
+
+That said, it doesn’t look like much on the outside. Just a blank wall with no windows, no neon signs, just a small sign besides the door.
+
+“Pleasure Club - Entrance”
+
+Besides opening hours and contact information, theres nothing else printed on it.
+
+Probably they’re keeping the appearance of the club subtle to not to bother families with kids in the neighbourhood with public display of sex.
+
+You spot few people go in and a few come out. Looks like theres some activity inside.
+
+Theres a bouncer at the door. Looks like she’s making sure no one underage comes inside.
+
+GO IN or GO HOME</String>
+         <ConnectedNoteIDs>2, 4-5</ConnectedNoteIDs>
+         <PointsToNoteIDs>4-5</PointsToNoteIDs>
+      </Note>
+      <Note Width="227.344" FontSize="12" ID="4" Position="635.1,518.0">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>1.0 0.921569 0.894118</Fill>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>GO IN
+
+Approaching the club entrance, the bouncer looks you up and gives you a friendly nod - you are free to go inside.
+
+As you walk past her, you could almost swear she smirked subtly. You raise an eyebrow, but think nothing of it.
+
+You boldly step inside the doors of the club. While doing so, you feel a strange wind pass over you.
+
+The unusual cool sensation vanishes as soon as it happened, to the point where you think your mind is playing tricks on you.
+
+You know you’re excited, but that feeling still seemed a little odd. Then again, its gone now so you keep going.
+
+[Do - be advised - if not coming here thru GO HOME]
+
+As soon you walk in, you’re greeted with a spacious lounge area. This place looks bigger than it seems on the outside.
+
+You are approached by a lady.
+
+“Hello there, is this you first time here?”
+
+YES or NO
+
+Yes -> Continue
+
+No -> Skip to actual start
+
+u “Yes, its my first time here. What is this place?”
+
+g “Ah, then welcome to the Pleasure Club. My name is Anna and I’m the greeter. You may ask me for guidance and information.”
+
+g “We have a few areas in the club you may go to. Each of them may have a selection of ladies that you may engage with for some fun times”
+
+g “Once you find someone you’re interested, you may ask them for pleasure. Some may even ask you.”
+
+g “After that you can either go for another round or try another encounter. You are free to choose and mix.”
+
+g “Remember to be respectful and honor your partners. We want to keep this a safe space for everyone.”
+
+g “We only ask for a reasonable entrance fee per visit. We hope to have you visit us multiple times as a regular customer.”
+
+u* “Seems fair, the price is affordable and essentially includes unlimited fun as long as I have stamina.” - you think to yourself (internal monologue)
+
+The online ratings you browsed previously give you confidence to trust this business even thought you’ve never used their services before.
+
+u “Sounds great, heres my payment”.
+
+g “Thank you, much appreciated. If you have any questions, please ask away. I’m here to help”.
+
+g “If you want a hint where to start, just try any of the corners of this lounge. There are a number of ladies available for some fun.”
+
+g “Oh and occasionally we may also get new ladies to join our group, so be sure to come again in the future.”
+
+That last line, she says with a glint in her eye and a wide smile, looking you deep in the eyes.
+
+You are taken a back by this gesture, but compose yourself once again. Its probably just another part of the experience.
+
+You thank her for the information and step forward into the lounge.
+
+>Game start proper</String>
+         <ConnectedNoteIDs>3, 6</ConnectedNoteIDs>
+         <PointsToNoteIDs>6</PointsToNoteIDs>
+      </Note>
+      <Note Width="235.938" FontSize="12" ID="5" Position="885.9,513.3">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>1.0 0.921569 0.894118</Fill>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>GO HOME
+
+Whatever your reasons, you are thinking of going back home instead.
+
+- be advised -
+
+Remember - in this game, your choices and consent matter.
+
+Before any decision, you will be informed in some way, letting you know directly or give you a hint of what may be behind that choice.
+
+If a situation feels off, do not hesitate to back down and escape. You can always come back and try again.
+
+Beware though; some characters may not let you leave without a struggle.
+
+Meanwhile some choices may have final consequences. Good ones though, I promise.
+
+Its up to you to pay attention and sense the situation using the clues given to you.
+
+You can rest easy that this game does not contain violence or malice. Just know some characters may be a bit too eager to have their way with you, ya know? *wink*
+
+- end of advisory -
+
+Snapping back to reality, you consider if going home is really what you want to do now.
+
+Are you sure Y/N?
+
+Yes - > Main Menu
+
+Naw, not today. Might come back another time, but right now you want to head back home.
+
+The thought of the Pleasure Club still lingers in your mind, you’ll be sure to visit it soon.
+
+To be continued…
+
+No - > Go in
+
+Reconsidering, you decide to go in the club after all.
+</String>
+         <ConnectedNoteIDs>3</ConnectedNoteIDs>
+      </Note>
+      <Note Width="230.469" FontSize="12" ID="6" Position="359.4,1057.0">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>1.0 0.921569 0.894118</Fill>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>LOUNGE - Entry (First time game start)
+
+You are considering what to do next.
+
+Standing in the lounge, you can see different spots where various ladies are lounging. 
+
+Some of them glance your way, expectingly. Occasionally they wink and beckon at you.
+
+Others softly flutter their eyes towards you, while some stare with mild predatory intimidation.
+
+Seems like theres a lot of variety to be had for sure. 
+
+None of them are too similar to another. They all seem to have a personality of their own.
+
+Strangely, you do not see any other customers around, despite being sure you saw some go in and come out of here.
+
+Looking up you see some signs that indicate places where you can go. Apparently you can freely go anywhere.
+
+Anna is still here and is ready for any questions you may have.
+
+What would you like to explore?
+
+Explore Lounges
+
+Explore Dressing Rooms
+
+Explore Bedrooms
+
+Explore Courtyard
+
+Ask Anna a question
+
+Go Home (greyed out unless 3 encounter chars have been spoken to or one session has been done)</String>
+         <ConnectedNoteIDs>4, 7, 9</ConnectedNoteIDs>
+         <PointsToNoteIDs>7, 9</PointsToNoteIDs>
+      </Note>
+      <Note Width="255.469" FontSize="12" ID="7" Position="57.8,806.2">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>1.0 0.921569 0.894118</Fill>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Questions to Anna
+
+Q Why is the price so low for all this?
+
+A We felt everyone has a different taste, so we encourage trying different options without worry.
+
+Customers would feel undue pressure when selecting a partner to be with if they were confined to a single choice per visit.
+
+Without this limit imposing on them, the customer feels much safer with us - and more likely to return for another visit.
+
+>Ok
+
+eQ But is it sustainable to you as a business?
+
+A Oh yes, we get many customers daily and we have the capacity to satisfy all of them. Were leveraging economies of scale, hence why we can offer such an affordable price.
+
+Keep in mind that despite unlimited access per visit, a customer’s stamina has a limit. Most max out on one partner already.
+
+But more likely they simply get their need for love and sex satisfied, after which they don’t need to think about it for a while.
+
+Since that particular need comes back daily to tickle them, they often come back to us the next day.
+
+Still, even if they only have one matching encounter each visit, usually its one they really enjoyed and got their money’s worth.
+
+Remember you can do as many introductions as you want before committing to an encounter, to see what is available.
+
+We give our customers abundance so they never feel the need to become greedy.
+
+Q Where are all the other customers? I don’t I was the only one to come in just now.
+
+A They’re all in their own private pocket dimensions individually, don’t worry about it.
+
+>Oh, ok.
+
+eQ I… wait what
+
+A Just kidding, I mean they’re all in the various private spaces around the club already having fun.
+
+People move to the fun part here really quickly, she chuckles to herself.
+
+Q Can I have fun with you?
+
+A Sorry honey, I’m needed at my post. I’m sure you’ll find someone similar to me in the club to hang out with, she winks with a smile.
+
+Q Can you tell me about the areas?
+
+A Sure. The Lounges here is the starting point and has a general palette of common kinks.
+
+In the Dressing Rooms, you may find more of things involved with femdom, role reversal, crossdressing and other fun things.
+
+The Bedrooms is where usually more passionate and fierce things happen.
+
+The Courtyard features more alternative and special experiences. If its exotic you’re looking for, you might find something excited there.
+
+Then again, each of these places are not strictly locked to a theme. Its all mixed and shuffled. 
+
+You’ll never know what you’ll be getting yourself into until you interact with each lady a bit deeper.
+
+Some ladies may offer the opposite of what the place usually offers, so ultimately each lady is a surprise of their own.
+
+Also some ladies may have you change locations during a fun session, so even then you never know where you’ll eventually end up.
+
+Usually you’ll be able to get a gist of what it’ll be based on your initial introduction with them, but they may not reveal everything right away.
+
+Finding out is part of the fun, but we promise you’ll have a good time nonetheless with any of them, she reassures you with a genuine smile.
+
+If at any point you feel like something is not your thing, don’t hesitate to back off. No one will be upset or get mad if you do. Everyone has their subjective tastes and we respect your freedom to choose.
+
+Thought some ladies might challenge you and not give you up so easily, but thats also part of the fun, she grins at you with a suggestive look.
+
+Q Can you break the 4th wall and give me the choice advisory again?
+
+A “Sure thing”, she says while tearing a hole in space time to pull it up again.
+
+- be advised -</String>
+         <ConnectedNoteIDs>6, 8</ConnectedNoteIDs>
+      </Note>
+      <Note Width="245.312" FontSize="12" ID="8" Position="350.8,1903.9">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>1.0 0.921569 0.894118</Fill>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Quick Start or Next Day Start
+
+(Skip intro or continue game after “going home” usually after being ejected from club by an encounter end. Such end was either phase shift in relationship (+3 times to advance to next tier on an EC) or due to EC being somehow substantial enough that an encounter with them exhausted, warped, forced, mindcontrolled or other way caused the player to exit the club and go home)
+
+(+Quick start is available, but is greyed out and warns not to click it if its a user’s first time playing the game. After intro has been fully viewed once, it will then become fully visible. That said, it is actually clickable. For previous users and faster faps.)
+
+You’re back in the lounge of the Pleasure Club.
+
+The ladies of the club have noted your presence and make seductive gestures your way.
+
+What would you like to explore?
+
+Explore Lounges
+
+Explore Dressing Rooms
+
+Explore Bedrooms
+
+Explore Courtyard
+
+Ask Anna a question
+
+Go Home (greyed out unless 3 encounter chars have been spoken to or one session has been done)</String>
+         <ConnectedNoteIDs>7, 9</ConnectedNoteIDs>
+         <PointsToNoteIDs>7, 9</PointsToNoteIDs>
+      </Note>
+      <Note Width="154.993" FontSize="12" ID="9" Position="396.9,1844.5">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>1.0 0.921569 0.894118</Fill>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>>>> Main Game Loop &lt;&lt;&lt;</String>
+         <ConnectedNoteIDs>6, 8</ConnectedNoteIDs>
+      </Note>
+      <Note Width="214.062" FontSize="12" ID="10" Position="60.2,2895.3">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.894118 1.0 0.647059</Fill>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>== Main Game Loop ==
+
+What would you like to explore?
+
+Explore Lounges
+
+Explore Dressing Rooms
+
+Explore Bedrooms
+
+Explore Courtyard
+
+Ask Anna a question
+
+Go Home (greyed out unless 3 encounter chars have been spoken to or one session has been done)</String>
+         <ConnectedNoteIDs>11-16, 18-19</ConnectedNoteIDs>
+         <PointsToNoteIDs>11-16</PointsToNoteIDs>
+      </Note>
+      <Note Width="132.629" FontSize="12" ID="11" Position="293.0,3293.0">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.894118 1.0 0.647059</Fill>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Ask Anna (See above)</String>
+         <ConnectedNoteIDs>10</ConnectedNoteIDs>
+      </Note>
+      <Note Width="131.873" FontSize="12" ID="12" Position="446.1,2606.2">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.894118 1.0 0.647059</Fill>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>>Explore Lounges
+
+Lounge A (default)
+
+Lounge B (recolor)
+
+Lounge C (alternative)
+
+Back</String>
+         <ConnectedNoteIDs>10, 17-18</ConnectedNoteIDs>
+         <PointsToNoteIDs>17</PointsToNoteIDs>
+      </Note>
+      <Note Width="179.999" FontSize="12" ID="13" Position="408.3,2794.9">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.894118 1.0 0.647059</Fill>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>>Explore Dressing Rooms
+
+Dressing Room A (default)
+
+Dressing Room B (recolor)
+
+Dressing Room C (alternative)
+
+Back</String>
+         <ConnectedNoteIDs>10</ConnectedNoteIDs>
+      </Note>
+      <Note Width="140.955" FontSize="12" ID="14" Position="420.0,2945.7">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.894118 1.0 0.647059</Fill>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>>Explore Bedrooms
+
+Bedroom A (default)
+
+Bedroom B (recolor)
+
+Bedroom C (alternative)
+
+Back</String>
+         <ConnectedNoteIDs>10</ConnectedNoteIDs>
+      </Note>
+      <Note Width="122.803" FontSize="12" ID="15" Position="378.0,3179.3">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.894118 1.0 0.647059</Fill>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>>Explore Courtyard
+
+Courtyard A (default)
+
+Back</String>
+         <ConnectedNoteIDs>10</ConnectedNoteIDs>
+      </Note>
+      <Note Width="156.25" FontSize="12" ID="16" Position="85.2,3235.9">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.894118 1.0 0.647059</Fill>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>>Go Home
+
+Having enough for today, you decide to go home.
+
+Day counter +1
+
+[Either insert:
+* Generic wondering what else is they may discover at the PC next time. 
+* Context / EC sensitive dream / thoughts, reminding player whom they were with
+* Corruption with EC tier lvl up dream / thoughts, giving player hint that this might go somewhere if continued]
+
+Return to Mainloop
+
+or
+
+End game (if ending triggers from one of the ladies only once you’ve returned home)</String>
+         <ConnectedNoteIDs>10, 18</ConnectedNoteIDs>
+         <PointsToNoteIDs>10</PointsToNoteIDs>
+      </Note>
+      <Note Width="67.9443" FontSize="12" ID="17" Position="747.7,2750.0">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.894118 1.0 0.647059</Fill>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>>Lounge A
+
+Lady1
+
+Lady2
+
+Lady3</String>
+         <ConnectedNoteIDs>12, 18</ConnectedNoteIDs>
+         <PointsToNoteIDs>18</PointsToNoteIDs>
+      </Note>
+      <Note Width="288.281" FontSize="12" ID="18" Position="755.5,2917.2">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.894118 1.0 0.647059</Fill>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>>Lady1
+
+Do her scene.
+
+Depending on encounter, a lady may have these factors: 
+
+Her meta may be:
+*simple repeat
+*repeat X times, unlock tier
+
+Context maybe:
+*male player
+*female player
+
+There may be:
+*one encounter character total
+*many encounter characters total
+(they may be together, take turns, pass you on, guest / visitor appearances, give you choice which one to be with (or both/all) - and any combination of above)
+
+She may have:
+*single scene option
+*many scene options (one at a time per session)
+
+All encounters have:
+*first time intro
+*returning intro
+
+She may end with:
+*back at access location (Lounge A)
+*back at main lounge
+*move to any location + message / recommendation who to do next
+*force you go home + dream/thoughts afterward
+*game end (perma TF, 100% corruption, became pet/sub/etc, ascended to a higher state of being, became one of the ladies, found love married her and started family, trapped in eternal pleasure)</String>
+         <ConnectedNoteIDs>10, 12, 16-17</ConnectedNoteIDs>
+         <PointsToNoteIDs>10, 12, 16-17</PointsToNoteIDs>
+      </Note>
+      <Note Width="148.657" FontSize="12" ID="19" Position="92.2,2850.0">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.894118 1.0 0.647059</Fill>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>UI Element - Day counter</String>
+         <ConnectedNoteIDs>10</ConnectedNoteIDs>
+         <PointsToNoteIDs>10</PointsToNoteIDs>
+      </Note>
+      <Note Width="275.769" FontSize="12" ID="20" Position="625.0,2159.4">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>1.0 1.0 0.498039</Fill>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Main Menu
+
+Begin
+>First time playing Y/N?
+(dont skip intro recommended)
+>N skip intro
+
+Credits &amp; Links (Patreon, etc… but just have them main menu tho?)
+Options (what for, side bar does most anyway?)
+Exit (Can just close the browser/tab/window?)</String>
+      </Note>
+   </Notes>
+   <BackgroundShapes/>
+   <NoteStyles>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Blue Bubble" ID="2308C781-493C-434C-8161-790F0F8D00C2" AffectTextColor="No" AffectNoteBody="Yes" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.485893 0.568933 0.756207</BorderColor>
+         <FillColor>0.844068 0.869596 0.923064</FillColor>
+      </Style>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Brown Bubble" ID="DC30BE0E-21F3-40EC-A39F-CF404F73CA9B" AffectTextColor="No" AffectNoteBody="Yes" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.269490 0.164034 0.186694</BorderColor>
+         <FillColor>0.934157 0.888319 0.785290</FillColor>
+      </Style>
+      <Style AffectFontStyle="Yes" AffectAlignment="Yes" Name="Title Text" ID="0D0C15B6-28C5-4137-9DDE-8DC7A053E57D" AffectTextColor="No" AffectNoteBody="No" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <IsBold>Yes</IsBold>
+         <FontSize>12.0</FontSize>
+      </Style>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Pink Bubble" ID="CD383D3C-F6FB-4764-98FD-25E9E447E9E4" AffectTextColor="No" AffectNoteBody="Yes" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.690303 0.407263 0.550912</BorderColor>
+         <FillColor>0.898329 0.817472 0.865339</FillColor>
+      </Style>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Red Text" ID="4EDA8654-5C50-48AE-84A5-77ACD15481ED" AffectTextColor="Yes" AffectNoteBody="No" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <TextColor>1.0 0.0 0.0</TextColor>
+      </Style>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Green Bubble" ID="DD1919D2-D4D0-48E6-91CE-338E488A2DAE" AffectTextColor="No" AffectNoteBody="Yes" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.399100 0.583322 0.354864</BorderColor>
+         <FillColor>0.808835 0.872419 0.801343</FillColor>
+      </Style>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Yellow Bubble" ID="21ABAF97-E16B-402B-9904-12308F8D3A94" AffectTextColor="No" AffectNoteBody="Yes" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.769436 0.762219 0.390143</BorderColor>
+         <FillColor>0.912963 0.894118 0.644541</FillColor>
+      </Style>
+   </NoteStyles>
+   <UISettings>
+      <BackgroundColor>1.0 0.988006 0.945006</BackgroundColor>
+      <DefaultFont>Helvetica</DefaultFont>
+      <DefaultTextColor>0.0 0.0 0.0</DefaultTextColor>
+   </UISettings>
+   <PrintSettings VerticalPagination="Auto" HorizontalPagination="Clip" Orientation="Portrait" RightMargin="12.000000" BottomMargin="12.000000" HorizontallyCentered="Yes" ScaleFactor="1.000000" PagesAcross="1" PaperType="iso-a4" PagesDown="1" TopMargin="12.000000" Collates="Yes" PaperSize="-1.000000,-1.000000" LeftMargin="12.000000" VerticallyCentered="Yes"/>
+</ScappleDocument>

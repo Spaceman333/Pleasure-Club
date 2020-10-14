@@ -1,0 +1,59 @@
+MMS Pleasure Club Components & Overview
+
+Struct:
+-------
+Mainmenu -> might need title pic, font or something.
+Intro black screen text
+Show city
+Fade to metro transit
+To entrance
+To interview
+To lounge -> any room
+EC encounters -> return above or go resting bed
+reach max on any char -> open option for own neuromancy freelance career via anna in her own "office room"
+exit game -> go "home" (irl)
+continue game <- return from "home" (irl)
+
+
+
+Story:
+------
+Find ad about Pleasure Club
+Interested about a new special feature they have
+Go there for fun sexy times
+Have to do interview to get vetted
+Do ritual and bond with Pleasure Club family on a soul level - awaken ability to sense neuromancy (and do it, but not without tutoring)
+Ritual causes shift in the mind that makes it feel like the staff of PC are family and awaken a sense of caring towards them
+Now have fun with Encounter Characters -> each has their own fantasy, specialization and location they focus on.
+Learn from anna while waking up after max level knockout that player too can become a neuromancer. Anna will be a tutor. This is a set of scenes.
+Then once graduated from tutoring, you can now do your own set of scenes on other customers.
+As a freelancer, you come and go whenever you like as a guest appearance in the Pleasure Club.
+
+
+
+Utilities:
+----------
+No game over, no perma TF. Play, return, redo - infinitely. All on the same save file.
+Exiting club via app close or main menu means going home in real life. Loading a save or straing the new game with skipping intro means returning back to it.
+Save file keeps track of progress with ECs and their scene unlocks.
+There is a cheat to unlock all systems for those who already completed the game and return back after reinstalling the game.
+Appdata keeps track of skip unlocks - can be overriden via 'secret cheat(s)' in options or credits page.
+New game tries its best to funnel people through the intro and the interview to knock people out that wouldn't enjoy the game.
+
+
+
+Assets - Backgrounds:
+-big picture city
+-metro transit
+-entrance
+-interview room
+-encounter zones (lounge, dressing, booths, courtyard)
+-character own theme background visions
+-cooldown bed
+-anna's teacher room
+
+
+Assets - Characters:
+-anna
+-bouncer (fem)
+-encounter characters (12x)
