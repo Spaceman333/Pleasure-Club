@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 363: expected ':' not found.
+    menu
+        ^
+
+Ren'Py Version: Ren'Py 7.3.5.606
+Wed Oct 21 19:21:50 2020
